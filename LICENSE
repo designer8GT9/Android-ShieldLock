@@ -1,0 +1,188 @@
+LICENCIA SHIELDLOCK v1.0
+Copyright (c) 2026 [TU NOMBRE O SEUDÓNIMO]
+Proyecto: ShieldLock — [URL DEL REPOSITORIO]
+
+════════════════════════════════════════════════════════════════
+ VERSIÓN EN ESPAÑOL (versión que prevalece en caso de diferencia)
+════════════════════════════════════════════════════════════════
+
+1. DEFINICIONES
+
+   "Software": el código fuente, recursos y documentación del
+   proyecto ShieldLock, publicados en [URL DEL REPOSITORIO].
+
+   "Obra derivada": cualquier proyecto, aplicación o programa que
+   contenga, copie, modifique o se base en cualquier parte del
+   Software.
+
+   "Google Play Store": la tienda de aplicaciones Google Play y
+   cualquier otro servicio de distribución de aplicaciones operado
+   por Google que lo sustituya o complemente.
+
+2. PERMISO
+
+   Se concede, sin costo, a cualquier persona o entidad, una
+   licencia mundial, no exclusiva y perpetua (sujeta a la sección 6)
+   para usar, copiar, modificar, fusionar, publicar y distribuir el
+   Software y las Obras derivadas, incluso con fines comerciales,
+   siempre que se cumplan TODAS las condiciones siguientes.
+
+3. CONDICIÓN DE ATRIBUCIÓN
+
+   Toda Obra derivada debe indicar de forma explícita que el código
+   utilizado proviene del proyecto ShieldLock y que NO es obra
+   original de quien la distribuye, e incluir un enlace al proyecto
+   original ([URL DEL REPOSITORIO]).
+
+   Basta una simple mención y el enlace, en al menos un lugar
+   visible, por ejemplo: el README, la pantalla "Acerca de" o
+   "Créditos" de la aplicación, o la descripción de la aplicación
+   en la tienda o en el sitio web donde se distribuya.
+
+   Ejemplo válido:
+   "Parte del código de esta aplicación proviene de ShieldLock
+   (https://github.com/usuario/ShieldLock), creado por [TU NOMBRE]."
+
+   Está prohibido presentar el código del Software como creación
+   propia.
+
+4. CONDICIÓN DE DISTRIBUCIÓN
+
+   Queda PROHIBIDO publicar o distribuir el Software o cualquier
+   Obra derivada en Google Play Store.
+
+   Se PERMITE la distribución en cualquier otro medio, incluyendo,
+   sin limitarse a: tiendas alternativas de aplicaciones (como
+   IzzyOnDroid, F-Droid u otras), repositorios de código y
+   páginas web.
+
+5. AVISO DE LICENCIA
+
+   Las copias del código fuente del Software, completas o
+   sustanciales, deben conservar este aviso de licencia y la línea
+   de derechos de autor.
+
+6. TERMINACIÓN
+
+   Si se incumple cualquiera de estas condiciones, los permisos
+   concedidos por esta licencia terminan automáticamente para quien
+   incumplió. Los permisos se restablecen si el incumplimiento se
+   corrige en un plazo de 30 días desde que el titular de los
+   derechos lo notifique. Si el incumplimiento no se corrige, la
+   licencia queda terminada de forma definitiva para esa persona o
+   entidad.
+
+7. COMPONENTES DE TERCEROS
+
+   Esta licencia solo cubre el código original de ShieldLock. Las
+   bibliotecas de terceros (por ejemplo, Shizuku-API) conservan sus
+   propias licencias, que deben cumplirse por separado.
+
+8. MARCA
+
+   Esta licencia no concede derechos sobre el nombre "ShieldLock",
+   su logotipo ni su imagen, salvo para cumplir con la condición de
+   atribución de la sección 3.
+
+9. SIN GARANTÍA
+
+   EL SOFTWARE SE ENTREGA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO,
+   EXPRESA O IMPLÍCITA, INCLUIDAS LAS DE COMERCIABILIDAD, IDONEIDAD
+   PARA UN FIN PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL AUTOR
+   SERÁ RESPONSABLE POR RECLAMACIONES, DAÑOS U OTRAS
+   RESPONSABILIDADES, INCLUIDA LA PÉRDIDA DE ACCESO A UN
+   DISPOSITIVO O DE DATOS, DERIVADAS DEL USO DEL SOFTWARE.
+
+
+════════════════════════════════════════════════════════════════
+ ENGLISH VERSION (courtesy translation — the Spanish version
+ prevails in case of discrepancy)
+════════════════════════════════════════════════════════════════
+
+SHIELDLOCK LICENSE v1.0
+Copyright (c) 2026 [YOUR NAME OR ALIAS]
+Project: ShieldLock — [REPOSITORY URL]
+
+1. DEFINITIONS
+
+   "Software": the source code, resources and documentation of the
+   ShieldLock project, published at [REPOSITORY URL].
+
+   "Derivative Work": any project, application or program that
+   contains, copies, modifies or is based on any part of the
+   Software.
+
+   "Google Play Store": the Google Play app store and any other
+   app distribution service operated by Google that replaces or
+   supplements it.
+
+2. PERMISSION
+
+   Free of charge, permission is granted to any person or entity
+   under a worldwide, non-exclusive, perpetual license (subject to
+   section 6) to use, copy, modify, merge, publish and distribute
+   the Software and Derivative Works, including for commercial
+   purposes, provided that ALL of the following conditions are met.
+
+3. ATTRIBUTION CONDITION
+
+   Every Derivative Work must explicitly state that the code used
+   comes from the ShieldLock project and is NOT the original work
+   of the distributor, and must include a link to the original
+   project ([REPOSITORY URL]).
+
+   A simple mention and link is enough, in at least one visible
+   place, for example: the README, the app's "About" or "Credits"
+   screen, or the app's description on the store or website where
+   it is distributed.
+
+   Valid example:
+   "Part of this application's code comes from ShieldLock
+   (https://github.com/user/ShieldLock), created by [YOUR NAME]."
+
+   Presenting the Software's code as one's own creation is
+   prohibited.
+
+4. DISTRIBUTION CONDITION
+
+   It is PROHIBITED to publish or distribute the Software or any
+   Derivative Work on the Google Play Store.
+
+   Distribution is ALLOWED through any other means, including but
+   not limited to: alternative app stores (such as IzzyOnDroid,
+   F-Droid, Aptoide or others), code repositories and websites.
+
+5. LICENSE NOTICE
+
+   Complete or substantial copies of the Software's source code
+   must retain this license notice and the copyright line.
+
+6. TERMINATION
+
+   If any of these conditions is breached, the permissions granted
+   by this license terminate automatically for the party in breach.
+   The permissions are reinstated if the breach is cured within 30
+   days after the rights holder gives notice. If the breach is not
+   cured, the license is permanently terminated for that person or
+   entity.
+
+7. THIRD-PARTY COMPONENTS
+
+   This license covers only ShieldLock's original code. Third-party
+   libraries (for example, Shizuku-API) keep their own licenses,
+   which must be complied with separately.
+
+8. TRADEMARK
+
+   This license grants no rights to the name "ShieldLock", its logo
+   or its image, except as needed to comply with the attribution
+   condition in section 3.
+
+9. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING LOSS OF ACCESS TO A
+   DEVICE OR LOSS OF DATA, ARISING FROM THE USE OF THE SOFTWARE.
