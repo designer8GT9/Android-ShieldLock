@@ -1,6 +1,6 @@
 LICENCIA SHIELDLOCK v1.0
-Copyright (c) 2026 [TU NOMBRE O SEUDÓNIMO]
-Proyecto: ShieldLock — [URL DEL REPOSITORIO]
+Copyright (c) 2026 designer8GT9
+Proyecto: ShieldLock — https://github.com/designer8GT9/Android-ShieldLock
 
 ════════════════════════════════════════════════════════════════
  VERSIÓN EN ESPAÑOL (versión que prevalece en caso de diferencia)
@@ -9,7 +9,7 @@ Proyecto: ShieldLock — [URL DEL REPOSITORIO]
 1. DEFINICIONES
 
    "Software": el código fuente, recursos y documentación del
-   proyecto ShieldLock, publicados en [URL DEL REPOSITORIO].
+   proyecto ShieldLock, publicados en https://github.com/designer8GT9/Android-ShieldLock.
 
    "Obra derivada": cualquier proyecto, aplicación o programa que
    contenga, copie, modifique o se base en cualquier parte del
@@ -32,7 +32,7 @@ Proyecto: ShieldLock — [URL DEL REPOSITORIO]
    Toda Obra derivada debe indicar de forma explícita que el código
    utilizado proviene del proyecto ShieldLock y que NO es obra
    original de quien la distribuye, e incluir un enlace al proyecto
-   original ([URL DEL REPOSITORIO]).
+   original https://github.com/designer8GT9/Android-ShieldLock.
 
    Basta una simple mención y el enlace, en al menos un lugar
    visible, por ejemplo: el README, la pantalla "Acerca de" o
@@ -41,7 +41,7 @@ Proyecto: ShieldLock — [URL DEL REPOSITORIO]
 
    Ejemplo válido:
    "Parte del código de esta aplicación proviene de ShieldLock
-   (https://github.com/usuario/ShieldLock), creado por [TU NOMBRE]."
+   https://github.com/designer8GT9/Android-ShieldLock, creado por designer8GT9."
 
    Está prohibido presentar el código del Software como creación
    propia.
@@ -101,12 +101,12 @@ Proyecto: ShieldLock — [URL DEL REPOSITORIO]
 
 SHIELDLOCK LICENSE v1.0
 Copyright (c) 2026 [YOUR NAME OR ALIAS]
-Project: ShieldLock — [REPOSITORY URL]
+Project: ShieldLock — https://github.com/designer8GT9/Android-ShieldLock
 
 1. DEFINITIONS
 
    "Software": the source code, resources and documentation of the
-   ShieldLock project, published at [REPOSITORY URL].
+   ShieldLock project, published at https://github.com/designer8GT9/Android-ShieldLock.
 
    "Derivative Work": any project, application or program that
    contains, copies, modifies or is based on any part of the
@@ -129,7 +129,7 @@ Project: ShieldLock — [REPOSITORY URL]
    Every Derivative Work must explicitly state that the code used
    comes from the ShieldLock project and is NOT the original work
    of the distributor, and must include a link to the original
-   project ([REPOSITORY URL]).
+   project https://github.com/designer8GT9/Android-ShieldLock.
 
    A simple mention and link is enough, in at least one visible
    place, for example: the README, the app's "About" or "Credits"
@@ -138,7 +138,7 @@ Project: ShieldLock — [REPOSITORY URL]
 
    Valid example:
    "Part of this application's code comes from ShieldLock
-   (https://github.com/user/ShieldLock), created by [YOUR NAME]."
+   https://github.com/designer8GT9/Android-ShieldLock, created by designer8GT9."
 
    Presenting the Software's code as one's own creation is
    prohibited.
