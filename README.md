@@ -1,4 +1,4 @@
-# ShieldLock
+# ShieldLockAUTH
 
 **Capas de seguridad extra para tu Android, después del bloqueo del sistema.**
 
