@@ -1,6 +1,6 @@
-LICENCIA SHIELDLOCK v1.0
+LICENCIA SHIELDLOCKAUTH v1.0
 Copyright (c) 2026 designer8GT9
-Proyecto: ShieldLock — https://github.com/designer8GT9/Android-ShieldLock
+Proyecto: ShieldLockAuth — https://github.com/designer8GT9/Android-ShieldLock
 
 ════════════════════════════════════════════════════════════════
  VERSIÓN EN ESPAÑOL (versión que prevalece en caso de diferencia)
@@ -9,7 +9,7 @@ Proyecto: ShieldLock — https://github.com/designer8GT9/Android-ShieldLock
 1. DEFINICIONES
 
    "Software": el código fuente, recursos y documentación del
-   proyecto ShieldLock, publicados en https://github.com/designer8GT9/Android-ShieldLock.
+   proyecto ShieldLockAuth, publicados en https://github.com/designer8GT9/Android-ShieldLock.
 
    "Obra derivada": cualquier proyecto, aplicación o programa que
    contenga, copie, modifique o se base en cualquier parte del
@@ -30,7 +30,7 @@ Proyecto: ShieldLock — https://github.com/designer8GT9/Android-ShieldLock
 3. CONDICIÓN DE ATRIBUCIÓN
 
    Toda Obra derivada debe indicar de forma explícita que el código
-   utilizado proviene del proyecto ShieldLock y que NO es obra
+   utilizado proviene del proyecto ShieldLockAuth y que NO es obra
    original de quien la distribuye, e incluir un enlace al proyecto
    original https://github.com/designer8GT9/Android-ShieldLock.
 
@@ -40,7 +40,7 @@ Proyecto: ShieldLock — https://github.com/designer8GT9/Android-ShieldLock
    en la tienda o en el sitio web donde se distribuya.
 
    Ejemplo válido:
-   "Parte del código de esta aplicación proviene de ShieldLock
+   "Parte del código de esta aplicación proviene de ShieldLockAuth
    https://github.com/designer8GT9/Android-ShieldLock, creado por designer8GT9."
 
    Está prohibido presentar el código del Software como creación
@@ -74,13 +74,13 @@ Proyecto: ShieldLock — https://github.com/designer8GT9/Android-ShieldLock
 
 7. COMPONENTES DE TERCEROS
 
-   Esta licencia solo cubre el código original de ShieldLock. Las
+   Esta licencia solo cubre el código original de ShieldLockAuth. Las
    bibliotecas de terceros (por ejemplo, Shizuku-API) conservan sus
    propias licencias, que deben cumplirse por separado.
 
 8. MARCA
 
-   Esta licencia no concede derechos sobre el nombre "ShieldLock",
+   Esta licencia no concede derechos sobre el nombre "ShieldLockAuth",
    su logotipo ni su imagen, salvo para cumplir con la condición de
    atribución de la sección 3.
 
@@ -99,9 +99,9 @@ Proyecto: ShieldLock — https://github.com/designer8GT9/Android-ShieldLock
  prevails in case of discrepancy)
 ════════════════════════════════════════════════════════════════
 
-SHIELDLOCK LICENSE v1.0
+SHIELDLOCKAUTH LICENSE v1.0
 Copyright (c) 2026 [YOUR NAME OR ALIAS]
-Project: ShieldLock — https://github.com/designer8GT9/Android-ShieldLock
+Project: ShieldLockAuth — https://github.com/designer8GT9/Android-ShieldLock
 
 1. DEFINITIONS
 
@@ -127,7 +127,7 @@ Project: ShieldLock — https://github.com/designer8GT9/Android-ShieldLock
 3. ATTRIBUTION CONDITION
 
    Every Derivative Work must explicitly state that the code used
-   comes from the ShieldLock project and is NOT the original work
+   comes from the ShieldLockAuth project and is NOT the original work
    of the distributor, and must include a link to the original
    project https://github.com/designer8GT9/Android-ShieldLock.
 
@@ -137,7 +137,7 @@ Project: ShieldLock — https://github.com/designer8GT9/Android-ShieldLock
    it is distributed.
 
    Valid example:
-   "Part of this application's code comes from ShieldLock
+   "Part of this application's code comes from ShieldLockAuth
    https://github.com/designer8GT9/Android-ShieldLock, created by designer8GT9."
 
    Presenting the Software's code as one's own creation is
@@ -168,13 +168,13 @@ Project: ShieldLock — https://github.com/designer8GT9/Android-ShieldLock
 
 7. THIRD-PARTY COMPONENTS
 
-   This license covers only ShieldLock's original code. Third-party
+   This license covers only ShieldLockAuth's original code. Third-party
    libraries (for example, Shizuku-API) keep their own licenses,
    which must be complied with separately.
 
 8. TRADEMARK
 
-   This license grants no rights to the name "ShieldLock", its logo
+   This license grants no rights to the name "ShieldLockAuth", its logo
    or its image, except as needed to comply with the attribution
    condition in section 3.
 
