@@ -1,6 +1,6 @@
 LICENCIA SHIELDLOCKAUTH v1.0
 Copyright (c) 2026 designer8GT9
-Proyecto: ShieldLockAuth — https://github.com/designer8GT9/Android-ShieldLock
+Proyecto: ShieldLockAuth — https://github.com/designer8GT9/ShieldLockAuth
 
 ════════════════════════════════════════════════════════════════
  VERSIÓN EN ESPAÑOL (versión que prevalece en caso de diferencia)
@@ -9,7 +9,7 @@ Proyecto: ShieldLockAuth — https://github.com/designer8GT9/Android-ShieldLock
 1. DEFINICIONES
 
    "Software": el código fuente, recursos y documentación del
-   proyecto ShieldLockAuth, publicados en https://github.com/designer8GT9/Android-ShieldLock.
+   proyecto ShieldLockAuth, publicados en https://github.com/designer8GT9/ShieldLockAuth.
 
    "Obra derivada": cualquier proyecto, aplicación o programa que
    contenga, copie, modifique o se base en cualquier parte del
@@ -32,7 +32,7 @@ Proyecto: ShieldLockAuth — https://github.com/designer8GT9/Android-ShieldLock
    Toda Obra derivada debe indicar de forma explícita que el código
    utilizado proviene del proyecto ShieldLockAuth y que NO es obra
    original de quien la distribuye, e incluir un enlace al proyecto
-   original https://github.com/designer8GT9/Android-ShieldLock.
+   original https://github.com/designer8GT9/ShieldLockAuth.
 
    Basta una simple mención y el enlace, en al menos un lugar
    visible, por ejemplo: el README, la pantalla "Acerca de" o
@@ -41,7 +41,7 @@ Proyecto: ShieldLockAuth — https://github.com/designer8GT9/Android-ShieldLock
 
    Ejemplo válido:
    "Parte del código de esta aplicación proviene de ShieldLockAuth
-   https://github.com/designer8GT9/Android-ShieldLock, creado por designer8GT9."
+   https://github.com/designer8GT9/ShieldLockAuth, creado por designer8GT9."
 
    Está prohibido presentar el código del Software como creación
    propia.
@@ -101,12 +101,12 @@ Proyecto: ShieldLockAuth — https://github.com/designer8GT9/Android-ShieldLock
 
 SHIELDLOCKAUTH LICENSE v1.0
 Copyright (c) 2026 [YOUR NAME OR ALIAS]
-Project: ShieldLockAuth — https://github.com/designer8GT9/Android-ShieldLock
+Project: ShieldLockAuth — https://github.com/designer8GT9/ShieldLockAuth
 
 1. DEFINITIONS
 
    "Software": the source code, resources and documentation of the
-   ShieldLock project, published at https://github.com/designer8GT9/Android-ShieldLock.
+   ShieldLock project, published at https://github.com/designer8GT9/ShieldLockAuth.
 
    "Derivative Work": any project, application or program that
    contains, copies, modifies or is based on any part of the
@@ -129,7 +129,7 @@ Project: ShieldLockAuth — https://github.com/designer8GT9/Android-ShieldLock
    Every Derivative Work must explicitly state that the code used
    comes from the ShieldLockAuth project and is NOT the original work
    of the distributor, and must include a link to the original
-   project https://github.com/designer8GT9/Android-ShieldLock.
+   project https://github.com/designer8GT9/ShieldLockAuth.
 
    A simple mention and link is enough, in at least one visible
    place, for example: the README, the app's "About" or "Credits"
@@ -138,7 +138,7 @@ Project: ShieldLockAuth — https://github.com/designer8GT9/Android-ShieldLock
 
    Valid example:
    "Part of this application's code comes from ShieldLockAuth
-   https://github.com/designer8GT9/Android-ShieldLock, created by designer8GT9."
+   https://github.com/designer8GT9/ShieldLockAuth, created by designer8GT9."
 
    Presenting the Software's code as one's own creation is
    prohibited.
