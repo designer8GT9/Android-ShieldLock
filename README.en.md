@@ -1,4 +1,4 @@
-# ShieldLockAUTH
+# ShieldLockAuth
 
 **Extra security layers for your Android, after the system lock.**
 
